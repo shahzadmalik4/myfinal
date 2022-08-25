@@ -1,0 +1,102 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+spanh1
+{
+    color: orange;
+    font-size: xx-large;
+}
+.logo
+{
+    height: 50px;
+}
+.navbar ul li a:hover
+{
+    color: orange;
+}
+#nav
+{
+    background-color: white;
+}
+#contact
+{
+    margin-top: 80px;
+}
+#feedback
+{
+    margin-top: 80px;
+    text-align: center;
+    background-color: rgb(232, 232, 232);
+}
+#heading
+{
+    text-align: center;
+}
+#form
+{
+    margin-top: 50px;
+}
+#form2
+{
+    margin-top: 30px;
+}
+#footer
+{
+    background-color: black;
+    color: white;
+}
+p1
+{
+    color: gray;
+    font-size: larger;
+}
+span2
+{
+ font-size: small;   
+}
+span3
+{
+    font-size: large;
+    font-weight: bold;
+}
+span4
+{
+    color: white;
+    font-size: small;
+}
+span4 a:hover
+{
+    text-decoration: underline;
+    color: white;
+}
+span4 a
+{
+    color: orange;
+    font-size: small;
+    text-decoration: none;
+}
+#copyrights
+{
+    text-align: center;
+    margin-top: 100px;
+}
+span
+{
+    color: grey;
+}
+#card
+{
+    margin-top: 80px;
+}
+input
+{
+width: 80%;
+height: 50px;
+border-radius: 10px;
+}
+textarea{
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
